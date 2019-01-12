@@ -1,0 +1,12 @@
+s 1051 t 3825 alpha 0.001 L 550567 pmax 0.024 beta 0.450
+s 1051 t 3825 alpha 0.100 L 730775 pmax 0.024 beta 0.500
+s 1051 t 3825 alpha 0.300 L 1430913 pmax 0.024 beta 0.600
+s 1255 t 618 alpha 0.001 L 313019 pmax 0.023 beta 0.450
+s 1255 t 618 alpha 0.100 L 415475 pmax 0.023 beta 0.500
+s 1255 t 618 alpha 0.300 L 813530 pmax 0.023 beta 0.600
+s 3961 t 4658 alpha 0.001 L 228942 pmax 0.057 beta 0.450
+s 3961 t 4658 alpha 0.100 L 303877 pmax 0.057 beta 0.500
+s 3961 t 4658 alpha 0.300 L 595015 pmax 0.057 beta 0.600
+s 1500 t 6965 alpha 0.001 L 270842 pmax 0.027 beta 0.450
+s 1500 t 6965 alpha 0.100 L 359493 pmax 0.027 beta 0.500
+s 1500 t 6965 alpha 0.300 L 703914 pmax 0.027 beta 0.600
